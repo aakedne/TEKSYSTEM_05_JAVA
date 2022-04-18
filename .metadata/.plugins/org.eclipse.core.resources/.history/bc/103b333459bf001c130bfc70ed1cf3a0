@@ -37,7 +37,7 @@ public class javaLoopStatements {
 		}	
 			
 		
-			int day = 5;
+			/*int day = 5;
 			switch (day) {
 		case 1:
 		  System.out.println("Monday");
@@ -96,9 +96,13 @@ public class javaLoopStatements {
 		}}
 	
 	for(int i =3 ; i < 100; i++) {
-	System.out.println(i);
+	System.out.println(i);*/
 		}
 	
 }
 		
 }}
+	
+
+		
+
