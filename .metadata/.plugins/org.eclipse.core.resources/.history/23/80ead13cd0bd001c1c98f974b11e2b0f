@@ -1,0 +1,75 @@
+package myFirstJavaProject;
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		String name = "Abdi was here";
+		
+		//Execute statement
+		System.out.print("Hello!"+name);
+		System.out.println();
+		System.out.println();
+	
+		
+		int = whole numbers
+		int number= 120;
+		
+		// wrapper class
+		Integer num = 203;
+		//stores fractional numbers
+		double radius;
+		radius =123;
+		double area;
+		
+		// Assign a value
+		radius = 20;
+		
+		// Compute area
+		area = radius  * radius * 3.14159;
+		// get the result
+		System.out.println("The area is " + radius + "is" +area);
+		
+		// stores a single character
+		char a = 'b';
+		
+		
+		char singleValue = 'b';
+		System.out.println(singleValue);
+		// stores fractional numbers
+		float paycheck =1234.8f;
+		System.out.println("result");
+
+		
+		
+		int x=5;
+		int result = x + 5;
+		System.out.println(result);
+		
+		result=x-3;
+		ystem.out.println(result);
+		
+		
+		//math operator
+		Math.floor(paycheck);
+		Math.abs(singleValue);
+		System.out.print(Math.floor(Math.random()*5));
+	    Math.random();
+		Math.round(paycheck);
+		Math.sqrt(paycheck);
+		
+		
+		//Relational operation 
+		System.out.println(7==7);
+		
+		Scanner userInput = new Scanner(System.in);
+		System.out.println("Enter your name :");
+		String firstName = userInput.nextLine();
+		
+		System.out.println("My name is " + firstName);
+		
+		userInput.close();
+		
+	}
+
+}

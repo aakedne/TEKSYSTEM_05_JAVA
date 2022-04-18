@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kedne\OneDrive\Documents\TEKsystem_05\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3545742003.index
+3013502706.index
+2691108699.index
+2046526714.index
+4284568023.index
+2761621670.index

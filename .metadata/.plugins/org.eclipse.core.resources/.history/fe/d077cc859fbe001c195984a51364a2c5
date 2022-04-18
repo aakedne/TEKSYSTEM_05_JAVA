@@ -1,0 +1,20 @@
+package myFirstJavaProject;
+import java.util.Scanner;
+public class practiceCoding {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);  // Create a Scanner object
+	    System.out.println("Enter username");
+	   
+	    String userName = input .nextLine();  // Read user input
+	    System.out.println("firstName");
+	    String firstName = input .nextLine();
+	    System.out.println("lastName");
+	    String lastName = input .nextLine();
+	    System.out.println(age);
+	    int age = input .nextInt(); 
+		 
+	}
+
+}

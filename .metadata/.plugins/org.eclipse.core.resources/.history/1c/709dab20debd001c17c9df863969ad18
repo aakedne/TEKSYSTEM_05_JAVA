@@ -1,0 +1,30 @@
+package myFirstJavaProject;
+
+public class practiceCoding {
+
+	public static void main(String[] args) {
+		//double 
+		double length =1.5;
+		System.out.println("1.5");
+		
+		// char
+		char a ='A';
+		System.out.println('A');
+		
+		//String
+		
+		String name = "John";
+		System.out.println(name);
+		
+		
+		// int
+		int myNum =15;
+		mynum =20; //myNum is now 20
+		System.out.println(myNum);
+		
+		
+		
+
+	}
+
+}

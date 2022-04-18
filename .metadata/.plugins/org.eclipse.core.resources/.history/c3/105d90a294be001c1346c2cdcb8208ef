@@ -1,0 +1,18 @@
+package myFirstJavaProject;
+
+public class practiceCoding {
+
+	public static void main(String[] args) {
+		// adding variable using int
+		int a=5, b=4, c=6;
+		System.out.println(a + b + c);
+		
+		// another way of adding numbers
+		int x=7;
+		int y=6;
+		int z=60;
+		System.out.println(x+y+z);
+
+	}
+
+}

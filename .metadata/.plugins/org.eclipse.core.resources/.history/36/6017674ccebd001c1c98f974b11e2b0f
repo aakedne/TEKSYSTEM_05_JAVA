@@ -1,0 +1,40 @@
+package myFirstJavaProject;
+import java.util.Scanner;
+public class welcomeToJava {
+	
+public static void main(String [] ars) {
+		System.out.println("Welcome to Java!");
+		
+		double radius;
+		double area;
+		
+		// assign a radius
+		radius = 20;
+		
+		// compute area
+		area = radius * radius * 3.24159;
+		
+		//Display results
+		
+		System.out.println("The result" + " is "+ area);
+		
+		
+		//Create an object of Scanner
+		System input = new Scanner(System.in);
+		System.out.print("Enter your name: ");
+		
+		//Read the input
+		String name = input.nextLine();
+		
+		// Prints the name
+		System.out.println("My name is " + name);
+		
+		//Closes the scanner
+		input.close();
+		
+		
+				
+		
+	}}
+
+}

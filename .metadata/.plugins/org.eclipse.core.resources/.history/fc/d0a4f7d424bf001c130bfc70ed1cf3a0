@@ -1,0 +1,15 @@
+package myFirstJavaProject;
+
+public class javaLoopStatements {
+
+	public static void main(String[] args) {
+		int num = 12;
+		int otherNum = 7;
+		
+		//boolean
+		boolean isEven =num%2==0;
+		if(isEven){
+			System.out.println("even");
+	}
+
+}}

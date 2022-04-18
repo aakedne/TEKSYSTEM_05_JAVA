@@ -1,0 +1,24 @@
+package myFirstJavaProject;
+
+public class javaLoopStatements {
+
+	public static void main(String[] args) {
+		int num = 10;
+		int otherNum = 7;
+		
+		//boolean
+		boolean isEven =num%2==0;
+		if((num % 2 ==0 )|| (num % 3==0)){
+			System.out.println("even");
+	}
+		// if and else
+		int age = 17;
+		
+		if (age > 15 || age < 18){
+			System.out.println("Can't buy this game");
+		}else{
+			System.out.println("You can buy this game");
+		}
+		
+		
+}}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\kedne\OneDrive\Documents\TEKsystem_05\.metadata\.plugins\org.eclipse.jdt.core
+4102493001.index
+4284568023.index
+1865797976.index

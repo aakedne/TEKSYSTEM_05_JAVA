@@ -1,0 +1,24 @@
+package myFirstJavaProject;
+
+public class main {
+
+	public static void main(String[] args) {
+		String name = "Erika";
+		
+		int number = 120;
+		integer num = 203;
+		
+		double radius;
+		double area;
+		
+		radius = 20;
+		
+		area = radius * radius *3.14159;
+		
+		System.out.print ("The radius is " + radius + " is " + area);
+				
+		
+
+	}
+
+}
