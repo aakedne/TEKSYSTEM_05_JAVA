@@ -63,7 +63,7 @@ public class javaLoopStatements {
 		boolean exp = (3>=0) ? true : false;
 			System.out.println(exp);
 			
-		// loops
+		// loops 
 	// for while
 	boolean flag = true;
 	int count =1;
