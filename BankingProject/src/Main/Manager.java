@@ -17,4 +17,8 @@ public Manager() {
 	public String toString() {
 	return "manager [timeCards = " + timeCards + "]";
 }
+	public void setTimeCards(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }

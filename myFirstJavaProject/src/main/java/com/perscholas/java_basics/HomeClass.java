@@ -61,7 +61,7 @@ public class HomeClass {
 // Q6.  
 	int x = 5;
 	int y = 6;
-	int q =x/y;
+	int q =y/x;
 	
 	System.out.println(q); // output is 0
 	
