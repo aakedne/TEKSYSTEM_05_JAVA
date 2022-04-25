@@ -32,10 +32,14 @@ public class Employee {
 		
 	}
 	
-	public void calculateSalary() {
-		double salary;
+	public double calculateSalary() {
+		double salary = basicSalary + (basicSalary * specialAllowance/100) + (basicSalary * Hra/100);
+		return salary;
 		
-		salary = basicSalary + (basicSalary * specialAllowance/100) + (basicSalary * Hra/100);
-		
+	}
+	
+	public double calculateTransportAllowance() {
+		double transportAllowance = (basicSalary * 10/100);
+		return transportAllowance;
 	}
 }
