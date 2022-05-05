@@ -21,6 +21,7 @@
 
 <mapping class="Entity.DepartmentEntity"/> 
    <mapping class="Entity.TeacherEntity"/>
+   <mapping class="Entity.CohortEntity"/>
 
 
 </session-factory>
